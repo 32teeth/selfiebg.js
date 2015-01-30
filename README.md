@@ -31,7 +31,7 @@ Below is a quick screengrab of the script running once the user allows the shari
 
 ![Open Source icon](example.png)
 
-view the [example](example.html) file for more information.
+view the [example](http://htmlpreview.github.io/?https://github.com/32teeth/selfiebg.js/master/example.html) file for more information.
 or check out the [live example](http://www.selfiebgjs.32teeth.org/) here
 
 
