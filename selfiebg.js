@@ -32,7 +32,7 @@ var selfiebg = (function(){
 	** @param button_require {boolean} [true|false]
 	** @description add button to stop stream once invoked
 	*/	
-	var button_require = true;
+	var button_require = false;
 
 
 	/*
